@@ -11,22 +11,22 @@
 
 ##  Table of Contents
 
-- [🎯 Overview](#-overview)
-- [✨ Key Features](#-key-features)
-- [📊 Model Performance](#-model-performance)
-- [🔍 Most Important Features](#-most-important-features)
-- [💡 Strategic Solutions](#-strategic-solutions)
-- [📦 Installation](#-installation)
-- [🚀 Quick Start](#-quick-start)
-- [📁 Project Structure](#-project-structure)
-- [🛠️ Technology Stack](#%EF%B8%8F-technology-stack)
-- [📈 Results & Impact](#-results--impact)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
+- [ Overview](#-overview)
+- [ Key Features](#-key-features)
+- [ Model Performance](#-model-performance)
+- [ Most Important Features](#-most-important-features)
+- [ Strategic Solutions](#-strategic-solutions)
+- [ Installation](#-installation)
+- [ Quick Start](#-quick-start)
+- [ Project Structure](#-project-structure)
+- [ Technology Stack](#%EF%B8%8F-technology-stack)
+- [ Results & Impact](#-results--impact)
+- [ Contributing](#-contributing)
+- [ License](#-license)
 
 ---
 
-## 🎯 Overview
+##  Overview
 
 **VisionZero** is an intelligent machine learning system designed to predict traffic accident severity and identify actionable interventions to save lives. Using advanced XGBoost classification with 12,316 accident records, this system achieves **95.54% accuracy** in classifying accidents into three severity levels:
 
@@ -40,28 +40,28 @@ The system goes beyond prediction to provide **data-driven policy recommendation
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-### 🤖 **Advanced Machine Learning**
+###  **Advanced Machine Learning**
 - **XGBoost Classifier** with optimized hyperparameters
 - **95.54% overall accuracy** on test dataset (1,480 samples)
 - **Class-specific performance**: 99% slight, 90% serious, 98% fatal detection
 - Weighted F1-Score: 0.9555 (excellent balance)
 - Confidence Level: **95.54%**
 
-### 🔬 **Feature Engineering**
+###  **Feature Engineering**
 - **11 engineered features** for enhanced predictive power
 - Smart interaction features (Time-Weather, Junction-Road combinations)
 - Risk scoring system combining driver, vehicle, and environmental factors
 - Categorical encoding with Target Encoding & Label Encoding
 
-### 📊 **Data-Driven Insights**
+###  **Data-Driven Insights**
 - Identifies **top 15 severity drivers** (Driving Experience, Risk Scores, Junction Types)
 - Temporal patterns (Night-time driving 1.9x more severe)
 - Environmental factors (Weather, lighting, road surface analysis)
 - Multi-vehicle incident detection
 
-### 🎯 **Actionable Solutions**
+###  **Actionable Solutions**
 Three evidence-based intervention strategies with ROI projections:
 1. **Night-Time Lighting Program** (29:1 ROI, 150 injuries prevented/year)
 2. **Junction Redesign & Smart Signals** (3.5:1 ROI, 180 injuries prevented/year)
