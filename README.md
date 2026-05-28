@@ -136,7 +136,7 @@ RANK  FEATURE NAME                    IMPORTANCE  IMPACT
  15.  Weather_conditions                2.52%     MEDIUM
 ```
 
-### 🎯 Key Insights
+###  Key Insights
 - **Driver Experience** is the strongest predictor (4.78% importance)
 - **Junction Types** account for 39.5% of all serious injuries
 - **Night-time driving** shows 1.9x higher severity rates
@@ -145,7 +145,7 @@ RANK  FEATURE NAME                    IMPORTANCE  IMPACT
 
 ---
 
-## 💡 Strategic Solutions
+##  Strategic Solutions
 
 ### Solution #1: Night-Time Lighting Expansion Program
 **Addresses:** Is_Night (Feature Rank #8)
@@ -227,7 +227,7 @@ D) Employer Fleet Safety Program
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -270,7 +270,7 @@ seaborn>=0.11.0         # Statistical plots
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Basic Usage
 
@@ -338,7 +338,7 @@ print(f"Confidence: {probability[0].max():.2%}")
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 VisionZero-Accident-Severity-Predictor/
@@ -375,7 +375,7 @@ VisionZero-Accident-Severity-Predictor/
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Core ML Framework
 - **XGBoost** - Gradient boosting classifier (state-of-the-art performance)
@@ -396,7 +396,7 @@ VisionZero-Accident-Severity-Predictor/
 
 ---
 
-## 📈 Results & Impact
+##  Results & Impact
 
 ### Model Performance Summary
 ```
@@ -458,7 +458,7 @@ MONTHS 13-24  Full Rollout & Optimization
 
 ---
 
-## 📊 Confusion Matrix Analysis
+##  Confusion Matrix Analysis
 
 The model's detailed predictions on 1,480 test samples:
 
@@ -479,7 +479,7 @@ Interpretation:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -490,18 +490,18 @@ Contributions are welcome! Here's how you can help:
 5. **Open** a Pull Request
 
 ### Areas for Contribution
-- 🐛 Bug fixes and error handling
-- 📊 Additional feature engineering techniques
-- 🎯 New prediction models (comparing with XGBoost)
-- 📈 Visualization improvements
-- 🌐 Web interface for predictions
-- 📱 Mobile app integration
-- 📚 Documentation improvements
-- 🧪 Unit tests and integration tests
+-  Bug fixes and error handling
+-  Additional feature engineering techniques
+-  New prediction models (comparing with XGBoost)
+-  Visualization improvements
+-  Web interface for predictions
+-  Mobile app integration
+-  Documentation improvements
+-  Unit tests and integration tests
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License** - see the LICENSE file for details.
 
@@ -514,16 +514,16 @@ of this software and associated documentation files...
 
 ---
 
-## 📞 Contact & Support
+## Contact & Support
 
 For questions, suggestions, or collaboration:
-- 📧 Email: [your.email@example.com]
-- 🐙 GitHub Issues: [Link to Issues]
-- 💬 Discussions: [Link to Discussions]
+-  Email: [your.email@example.com]
+-  GitHub Issues: [Link to Issues]
+-  Discussions: [Link to Discussions]
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Dataset Source:** Road traffic accident data
 - **ML Libraries:** XGBoost, scikit-learn, pandas teams
@@ -531,7 +531,7 @@ For questions, suggestions, or collaboration:
 
 ---
 
-## 📚 Additional Resources
+##  Additional Resources
 
 ### Documentation Files
 - `EXECUTIVE_SUMMARY.md` - Detailed model metrics and analysis
@@ -547,11 +547,11 @@ For questions, suggestions, or collaboration:
 
 <div align="center">
 
-### 🎯 Mission: Save Lives Through Data-Driven Insights
+###  Mission: Save Lives Through Data-Driven Insights
 
 **VisionZero** uses machine learning to identify patterns in traffic accidents and recommend evidence-based interventions that can prevent serious injuries and save lives.
 
-⭐ If this project helps you, please consider starring it! ⭐
+ If this project helps you, please consider starring it! 
 
 </div>
 
