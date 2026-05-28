@@ -67,14 +67,14 @@ Three evidence-based intervention strategies with ROI projections:
 2. **Junction Redesign & Smart Signals** (3.5:1 ROI, 180 injuries prevented/year)
 3. **High-Risk Driver Programs** (22:1 ROI, 190 injuries prevented/year)
 
-### ⚖️ **Class Balancing**
+###  **Class Balancing**
 - SMOTE resampling for minority class handling
 - Cost-sensitive learning for injury severity imbalance
 - Stratified train-test split for representative sampling
 
 ---
 
-## 📊 Model Performance
+## Model Performance
 
 ### Overall Metrics
 ```
@@ -110,7 +110,7 @@ WEIGHTED AVG       0.96     0.96      0.96     1480
 
 ---
 
-## 🔍 Most Important Features
+##  Most Important Features
 
 The model identified these factors as **most predictive of accident severity**:
 
@@ -119,21 +119,21 @@ The model identified these factors as **most predictive of accident severity**:
 ```
 RANK  FEATURE NAME                    IMPORTANCE  IMPACT
 ────────────────────────────────────────────────────────
-  1.  Driving_experience                4.78%    ⭐⭐⭐⭐⭐ CRITICAL
-  2.  Driver_Risk_Score                 4.63%    ⭐⭐⭐⭐⭐ CRITICAL
-  3.  Types_of_Junction                 4.14%    ⭐⭐⭐⭐⭐ HIGH
-  4.  Time_Weather                      3.87%    ⭐⭐⭐⭐  HIGH
-  5.  Service_year_of_vehicle           3.84%    ⭐⭐⭐⭐  HIGH
-  6.  Multiple_Vehicles                 3.77%    ⭐⭐⭐   MEDIUM
-  7.  High_Casualty_Count               3.62%    ⭐⭐⭐   MEDIUM
-  8.  Is_Night                          3.32%    ⭐⭐⭐   MEDIUM
-  9.  Road_surface_type                 3.02%    ⭐⭐⭐   MEDIUM
- 10.  Road_Weather                      3.01%    ⭐⭐⭐   MEDIUM
- 11.  Sex_of_casualty                   2.94%    ⭐⭐    MEDIUM
- 12.  Number_of_casualties              2.81%    ⭐⭐    MEDIUM
- 13.  Age_band_of_driver                2.65%    ⭐⭐    MEDIUM
- 14.  Vehicle_movement                  2.58%    ⭐⭐    MEDIUM
- 15.  Weather_conditions                2.52%    ⭐⭐    MEDIUM
+  1.  Driving_experience                4.78%     CRITICAL
+  2.  Driver_Risk_Score                 4.63%     CRITICAL
+  3.  Types_of_Junction                 4.14%     HIGH
+  4.  Time_Weather                      3.87%     HIGH
+  5.  Service_year_of_vehicle           3.84%     HIGH
+  6.  Multiple_Vehicles                 3.77%     MEDIUM
+  7.  High_Casualty_Count               3.62%     MEDIUM
+  8.  Is_Night                          3.32%     MEDIUM
+  9.  Road_surface_type                 3.02%     MEDIUM
+ 10.  Road_Weather                      3.01%     MEDIUM
+ 11.  Sex_of_casualty                   2.94%     MEDIUM
+ 12.  Number_of_casualties              2.81%     MEDIUM
+ 13.  Age_band_of_driver                2.65%     MEDIUM
+ 14.  Vehicle_movement                  2.58%     MEDIUM
+ 15.  Weather_conditions                2.52%     MEDIUM
 ```
 
 ### 🎯 Key Insights
