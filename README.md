@@ -514,49 +514,6 @@ of this software and associated documentation files...
 
 ---
 
-## Contact & Support
-
-For questions, suggestions, or collaboration:
--  Email: [your.email@example.com]
--  GitHub Issues: [Link to Issues]
--  Discussions: [Link to Discussions]
-
----
-
-##  Acknowledgments
-
-- **Dataset Source:** Road traffic accident data
-- **ML Libraries:** XGBoost, scikit-learn, pandas teams
-- **Inspired by:** Vision Zero initiatives for road safety
-
----
-
-##  Additional Resources
-
-### Documentation Files
-- `EXECUTIVE_SUMMARY.md` - Detailed model metrics and analysis
-- `SERIOUS_INJURY_REDUCTION_PROPOSAL.md` - Policy recommendations
-- `TOP_3_SOLUTIONS.md` - Strategic intervention plans
-
-### References
-- XGBoost Documentation: https://xgboost.readthedocs.io/
-- scikit-learn Guide: https://scikit-learn.org/
-- SMOTE Paper: https://arxiv.org/abs/1106.1813
-
----
-
-<div align="center">
-
-###  Mission: Save Lives Through Data-Driven Insights
-
-**VisionZero** uses machine learning to identify patterns in traffic accidents and recommend evidence-based interventions that can prevent serious injuries and save lives.
-
- If this project helps you, please consider starring it! 
-
-</div>
-
----
-
 **Last Updated:** April 8, 2026  
 **Model Version:** 1.0  
 **Status:** Production Ready ✅
