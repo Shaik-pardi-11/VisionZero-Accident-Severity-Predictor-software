@@ -58,7 +58,7 @@ The system goes beyond prediction to provide **data-driven policy recommendation
 ###  **Data-Driven Insights**
 - Identifies **top 15 severity drivers** (Driving Experience, Risk Scores, Junction Types).
 - Temporal patterns (Night-time driving 1.9x more severe).
-- Environmental factors (Weather, lighting, road surface analysis)
+- Environmental factors (Weather, lighting, road surface analysis).
 - Multi-vehicle incident detection
 
 ###  **Actionable Solutions**
