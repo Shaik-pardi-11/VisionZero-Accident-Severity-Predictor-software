@@ -51,7 +51,7 @@ The system goes beyond prediction to provide **data-driven policy recommendation
 
 ###  **Feature Engineering**
 - **11 engineered features** for enhanced predictive power
-- Smart interaction features (Time-Weather, Junction-Road combinations)
+- Smart interaction features (Time-Weather, Junction-Road combinations).
 - Risk scoring system combining driver, vehicle, and environmental factors.
 - Categorical encoding with Target Encoding & Label Encoding.
 
