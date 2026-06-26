@@ -53,7 +53,7 @@ The system goes beyond prediction to provide **data-driven policy recommendation
 - **11 engineered features** for enhanced predictive power
 - Smart interaction features (Time-Weather, Junction-Road combinations)
 - Risk scoring system combining driver, vehicle, and environmental factors
-- Categorical encoding with Target Encoding & Label Encoding
+- Categorical encoding with Target Encoding & Label Encoding.
 
 ###  **Data-Driven Insights**
 - Identifies **top 15 severity drivers** (Driving Experience, Risk Scores, Junction Types)
