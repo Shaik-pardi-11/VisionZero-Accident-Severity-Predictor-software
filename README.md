@@ -63,7 +63,7 @@ The system goes beyond prediction to provide **data-driven policy recommendation
 
 ###  **Actionable Solutions**
 Three evidence-based intervention strategies with ROI projections:
-1. **Night-Time Lighting Program** (29:1 ROI, 150 injuries prevented/year)
+1. **Night-Time Lighting Program** (29:1 ROI, 150 injuries prevented/year).
 2. **Junction Redesign & Smart Signals** (3.5:1 ROI, 180 injuries prevented/year)
 3. **High-Risk Driver Programs** (22:1 ROI, 190 injuries prevented/year)
 
