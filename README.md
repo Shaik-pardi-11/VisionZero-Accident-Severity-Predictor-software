@@ -50,7 +50,7 @@ The system goes beyond prediction to provide **data-driven policy recommendation
 - Confidence Level: **95.54%**
 
 ###  **Feature Engineering**
-- **11 engineered features** for enhanced predictive power
+- **11 engineered features** for enhanced predictive power.
 - Smart interaction features (Time-Weather, Junction-Road combinations).
 - Risk scoring system combining driver, vehicle, and environmental factors.
 - Categorical encoding with Target Encoding & Label Encoding.
